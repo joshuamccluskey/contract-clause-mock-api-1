@@ -1,0 +1,23 @@
+{
+  "name": "contract-clause-generator-api-1",
+  "version": "1.0.0",
+  "description": "contract clause generator mock api above 35k",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuamccluskey/contract-clause-mock-api-1.git"
+  },
+  "author": "joshuamccluskey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuamccluskey/contract-clause-mock-api-1/issues"
+  },
+  "homepage": "https://github.com/joshuamccluskey/contract-clause-mock-api-1#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
